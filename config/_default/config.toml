@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://ibrasyad.github.io/ibnulab/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Ibnulab"
 
