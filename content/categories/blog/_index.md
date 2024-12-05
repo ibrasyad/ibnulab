@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Blog
+description: A simple blog post
 image:
 
 # Badge style
