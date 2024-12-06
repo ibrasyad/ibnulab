@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Analysis on Ibnulab</title><link>https://ibnulab.pages.dev/tags/analysis/</link><description>Recent content in Analysis on Ibnulab</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ibnulab.pages.dev/tags/analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Customer Growth through Profiling</title><link>https://ibnulab.pages.dev/p/customer-growth-through-profiling/</link><pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate><guid>https://ibnulab.pages.dev/p/customer-growth-through-profiling/</guid><description>&lt;img src="https://ibnulab.pages.dev/p/customer-growth-through-profiling/cover.jpg" alt="Featured image of post Customer Growth through Profiling" />&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>In 2023, TheLook Ecommerce experienced remarkable growth in gross merchandise value (GMV), reaching nearly $3 million, a fivefold increase from the previous year. This success was reflected in the exponential rise in the number of transactions and customer base expansion. However, this growth masked a concerning trend—customer acquisition was slowing down. By the end of 2023, the company saw a 24.43% decline in customer acquisition, with the second half of the year showing a sharp drop of up to 50%. This alarming trend posed a significant challenge: how to sustain business growth when the influx of new customers was dwindling.&lt;/p>
+&lt;p>Read the summary below or visit the full report &lt;a class="link" href="https://docs.google.com/presentation/d/1G_4Q6J5wm3tIFckUGJes5LKb_MupIr_t71eNmy4eQmM/edit?usp=sharing" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;h2 id="segmenting-the-customer-base">Segmenting the Customer Base
+&lt;/h2>&lt;p>To address this challenge, the analysis focused on understanding customer profile and behavior through segmentation. Four distinct customer groups were identified:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>VVIP:&lt;/strong> This group, representing only 5% of the customer base, contributed a significant 23% of the total GMV. These top spenders are the most valuable customers.&lt;/li>
+&lt;li>&lt;strong>Premier:&lt;/strong> Comprising 22% of customers, this group had better spending power than average customers and accounted for 38% of the GMV.&lt;/li>
+&lt;li>&lt;strong>Majority:&lt;/strong> The largest segment, making up 49% of the customer base, contributed 25% of the GMV. This group had high transaction volumes but lower average revenue per user (ARPU).&lt;/li>
+&lt;li>&lt;strong>Churned:&lt;/strong> These customers, who had not made a purchase in over a year, represented 22% of the customer base and contributed 12% of the GMV.&lt;/li>
+&lt;/ul>
+&lt;p>The segmentation was achieved through clustering analysis, considering metrics such as GMV, ARPU, transaction history, and other behavioral data. The goal was to identify patterns within these groups to tailor strategies that could boost customer retention and acquisition.&lt;/p>
+&lt;h2 id="key-findings-and-behavioral-insights">Key Findings and Behavioral Insights
+&lt;/h2>&lt;p>The analysis revealed significant behavioral shifts in 2023. The &amp;ldquo;Majority&amp;rdquo; group saw a spike in activity and GMV, while the &amp;ldquo;Churned&amp;rdquo; group continued to decline. It was hypothesized that a business change in late 2022 or early 2023 might have contributed to these shifts—attracting more activity from the &amp;ldquo;Majority&amp;rdquo; while losing interest from the &amp;ldquo;Churned.&amp;rdquo;&lt;/p>
+&lt;p>The impact analysis showed that focusing on specific customer groups could lead to measurable improvements in GMV. Targeting the VVIP and Premier segments was projected to increase GMV by 3.11%, while efforts to engage the Majority and Churned groups could yield additional increases of 1.27% and 0.63%, respectively.&lt;/p>
+&lt;h2 id="strategic-focus-areas">Strategic Focus Areas
+&lt;/h2>&lt;p>Given these findings, the analysis recommends a multi-faceted approach to drive growth:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Prioritize Top Customers:&lt;/strong> Focus on the VVIP and Premier groups to secure a substantial portion of GMV with relatively low effort. These customers are already high spenders, and nurturing their loyalty could yield significant returns.&lt;/li>
+&lt;li>&lt;strong>Engage the Majority:&lt;/strong> While they contribute less per transaction, the Majority group is large and active. Maintaining their engagement and encouraging incremental spending could provide steady growth.&lt;/li>
+&lt;li>&lt;strong>Reactivate Churned Customers:&lt;/strong> Though they currently represent a smaller portion of GMV, re-engaging Churned customers could be worthwhile. Even a small percentage of reactivation could lead to a meaningful increase in revenue.&lt;/li>
+&lt;/ul>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>In conclusion, while TheLook Ecommerce has enjoyed substantial growth, the slowing rate of customer acquisition requires immediate attention. By understanding and segmenting the customer base, the company can implement targeted strategies that not only retain high-value customers but also re-engage those who have lapsed.&lt;/p></description></item><item><title>Passenger Satisfaction Analysis</title><link>https://ibnulab.pages.dev/p/passenger-satisfaction-analysis/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://ibnulab.pages.dev/p/passenger-satisfaction-analysis/</guid><description>&lt;img src="https://ibnulab.pages.dev/p/passenger-satisfaction-analysis/cover.jpg" alt="Featured image of post Passenger Satisfaction Analysis" />&lt;h2 id="summary">Summary
+&lt;/h2>&lt;p>Revo Air passenger satisfaction is declining, and in order to engage more customers, we must improve our service quality. So, we launched a survey to our passengers about their experience flying with us. After the analysis, we found 3 services as our main priority to improve on, namely: Online Boarding, Inflight Entertainment, and Seat Comfort.&lt;/p>
+&lt;h2 id="current-situation">Current Situation
+&lt;/h2>&lt;div style="display: block;">
+&lt;img src="current-situation.webp" alt="current situation of the business" style="width: 60%; height: auto; float: right; margin-left: 20px; margin-bottom: 20px;"/>
+&lt;p style="text-align: justify;">
+From the survey results, we find out that Revo Air only receives 43% satisfaction level which is pretty concerning for our business. So we have to improve the service to increase satisfaction level to 60% in 2023.&lt;br>&lt;br>
+We managed to identify the characteristics of the dissatisfied passengers. They are within the age of 8-38 and 60+ group. They were in the Eco and Eco Plus Class. They were on a personal travel. Both our Member and Non-Member passengers. And that they were on a short-haul flight (Under 1000 Miles). The last part is the one that surprised us. Our initial hypothesis was that the longer the distance the more dissatisfied the passenger will be. The truth is passengers that traveled more than 1500 miles are satisfied with their flight, while passengers that traveled under 1000 miles (short-distance flight) are mostly dissatisfied.
+&lt;/p>
+&lt;/div>
+&lt;h2 id="result">Result
+&lt;/h2>&lt;p>We analyze the data using 3 methods: EDA, Correlation and Clustering Analysis&lt;/p>
+&lt;div>
+&lt;img src="average-score.webp" alt="Average Score" style="width: 100%; height: auto; display: block; margin-bottom: 10px;"/>
+&lt;img src="correlation-score.webp" alt="Correlation Score" style="width: 100%; height: auto; display: block; margin-bottom: 10px;"/>
+&lt;img src="clustering-result.webp" alt="Clustering Result" style="width: 100%; height: auto; display: block; margin-bottom: 10px;"/>
+&lt;/div>
+&lt;p>From the result shown above, we concluded 2 things:&lt;/p>
+&lt;ul>
+&lt;li>We need to focus on 3 services, namely: Online Boarding, Inflight Entertainment, and Seat Comfort.&lt;/li>
+&lt;li>We need to focus on the 2nd cluster, which is where the majority of dissatisfied passengers are identified in.&lt;/li>
+&lt;/ul>
+&lt;p>As for our recommendation, you can read more details on our &lt;a class="link" href="https://www.canva.com/design/DAFBZzawX7Y/q30BuRiVnDIE-Xi0Iu4_cQ/view?utm_content=DAFBZzawX7Y&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink" target="_blank" rel="noopener"
+>&lt;strong>Canva Presentation&lt;/strong>&lt;/a>.&lt;/p></description></item></channel></rss>
