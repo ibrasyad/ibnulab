@@ -1,9 +1,9 @@
 ---
-title: Hello World
-description: Welcome to my portfolio~
+title: Welcome to my world!
+description: What is this place? What can you find here? And why is nasi uduk the best food for breakfast?
 # slug: hello-world
 date: 2024-12-05 00:00:00+0000
-image: cover.jpg
+# image: cover.jpg
 categories:
   - Blog
 tags:
@@ -24,5 +24,9 @@ Welcome to my page! This website will mostly be used to write my own blog, my pr
 Wow the journey was kinda long and far. I'm finally able to deploy this static website on cloudflare pages. I'm really new to all these, and even with proper guide and template, I was lost quite a lot.
 
 With that said, I'm proud to have reached this far.
+
+### Nasi Uduk
+
+Yes, it's best food for breakfast, ever, period.
 
 > Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/)
