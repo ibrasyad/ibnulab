@@ -22,20 +22,22 @@ Revo Air passenger satisfaction is declining, and in order to engage more custom
 
 ## Current Situation
 
-<div style="display: flex; justify-content: space-between; align-items: top;">
-  <p style="max-width: 60%;">From the survey results, we find out that Revo Air only receives 43% satisfaction level which is pretty concerning for our business. So we have to improve the service to increase satisfaction level to 60% in 2023.<br><br>
-  We managed to identify the characteristics of the dissatisfied passengers. They are within the age of 8-38 and 60+ group. They were in the Eco and Eco Plus Class. They were on a personal travel. Both our Member and Non-Member passengers. And that they were on a short-haul flight (Under 1000 Miles). The last part is the one that surprised us. Our initial hypothesis was that the longer the distance the more dissatisfied the passenger will be. The truth is passengers that traveled more than 1500 miles are satisfied with their flight, while passengers that traveled under 1000 miles (short-distance flight) are mostly dissatisfied.</p>
-  <img src="current-situation.webp" alt="current situation of the business" style="max-width: 35%; height: auto; margin-left: 10px;"/>
+<div style="display: block;">
+  <img src="current-situation.webp" alt="current situation of the business" style="width: 60%; height: auto; float: right; margin-left: 20px; margin-bottom: 20px;"/>
+  <p style="text-align: justify;">
+    From the survey results, we find out that Revo Air only receives 43% satisfaction level which is pretty concerning for our business. So we have to improve the service to increase satisfaction level to 60% in 2023.<br><br>
+    We managed to identify the characteristics of the dissatisfied passengers. They are within the age of 8-38 and 60+ group. They were in the Eco and Eco Plus Class. They were on a personal travel. Both our Member and Non-Member passengers. And that they were on a short-haul flight (Under 1000 Miles). The last part is the one that surprised us. Our initial hypothesis was that the longer the distance the more dissatisfied the passenger will be. The truth is passengers that traveled more than 1500 miles are satisfied with their flight, while passengers that traveled under 1000 miles (short-distance flight) are mostly dissatisfied.
+  </p>
 </div>
 
 ## Result
 
 We analyze the data using 3 methods: EDA, Correlation and Clustering Analysis
 
-<div style="display: flex; justify-content: space-between; gap: 5px;">
-  <img src="average-score.webp" alt="Average Score" style="width: 30%; height: auto;"/>
-  <img src="correlation-score.webp" alt="Correlation Score" style="width: 30%; height: auto;"/>
-  <img src="clustering-result.webp" alt="Clustering Result" style="width: 30%; height: auto;"/>
+<div>
+  <img src="average-score.webp" alt="Average Score" style="width: 100%; height: auto; display: block; margin-bottom: 10px;"/>
+  <img src="correlation-score.webp" alt="Correlation Score" style="width: 100%; height: auto; display: block; margin-bottom: 10px;"/>
+  <img src="clustering-result.webp" alt="Clustering Result" style="width: 100%; height: auto; display: block; margin-bottom: 10px;"/>
 </div>
 
 From the result shown above, we concluded 2 things:
