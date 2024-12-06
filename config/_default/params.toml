@@ -133,8 +133,8 @@ repoID = "R_kgDONZFAmg"
 category = "General"
 categoryID = "DIC_kwDONZFAms4Ck-o-"
 mapping = "pathname"
-lightTheme = ""
-darkTheme = ""
+lightTheme = "light"
+darkTheme = "dark"
 reactionsEnabled = 1
 emitMetadata = 0
 
