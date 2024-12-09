@@ -28,5 +28,3 @@ With that said, I'm proud to have reached this far.
 ### Nasi Uduk
 
 Yes, it's best food for breakfast, ever, period.
-
-> Photo by [Carl Heyerdahl](https://unsplash.com/@carlheyerdahl) on [Unsplash](https://unsplash.com/)
